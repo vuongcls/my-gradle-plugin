@@ -1,11 +1,11 @@
 <idea-plugin>
     <id>com.vuongvl.fsoft.my-gradle-plugin</id>
-    <name>Plugin display name here</name>
-    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+    <name>Generator Code MVVM</name>
+    <vendor email="vuongcls@gmail.com" url="https://www.facebook.com/vuongvo1996/">FPTSoftware</vendor>
 
     <description><![CDATA[
-    Enter short description for your plugin here.<br>
-    <em>most HTML tags may be used</em>
+    This plugin helps you automate your everyday development by generating all necessary files for your project's architecture
+    when you are creating a new screen.
     ]]></description>
 
     <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
